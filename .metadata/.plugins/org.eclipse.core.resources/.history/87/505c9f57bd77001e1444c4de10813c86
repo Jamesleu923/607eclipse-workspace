@@ -1,0 +1,12 @@
+package oopdemo01;
+
+public class Employee {
+	 public int EmpNo,Age,AnnualSalary;
+	 public Integer EmpDirector;
+	 public String NmpName,Gender,EducationLevel,Position;
+	 public float Height,Weight;
+	 
+	 public Employee() {
+		 
+	 }	
+}
